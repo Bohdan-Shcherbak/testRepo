@@ -1,2 +1,2 @@
 testrepo
-https://Bohdan-Shcherbak.github.io/testRepo/indexPr4
+https://Bohdan-Shcherbak.github.io/testRepo/
